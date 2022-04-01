@@ -3,7 +3,7 @@
 |주차|내용|링크|
 |------|---|---|
 |week1|서버란 무엇인가|[1주차 스터디 정리](https://github.com/KAU-UMC/server-study/tree/charles/charles/week1)|
-|week2|-|-|
+|week2|Protocol,IP,Port 등|[2주차 스터디 정리](https://github.com/KAU-UMC/server-study/tree/charles/charles/week2)|
 |week3|-|-|
 |week4|-|-|
 |week5|-|-|
