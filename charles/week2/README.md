@@ -47,6 +47,13 @@
 <br/>
 
 ## AWS
+### AWS란?
+
+### AWS EC2
+
+### EC2 인스턴스 연결 참고자료
+- [Permission denied (publickey) 에러 해결방법](https://velog.io/@ksh4820/AWS-ec2-Permission-denied-publickey-error)
+
 <br/>
 
 
