@@ -51,6 +51,7 @@
   - default 파일 열기 : ```sudo vi default```
   - dev & prod 서버블록 각각 작성하기
   <img src="../img/week3-1.png"/>
+
   - nginx 테스트 & 재시작하기
 <br/>
 
@@ -61,4 +62,5 @@
   - nginx 가상서버 환경설정 디렉토리로 이동 : ```cd /etc/nginx/sites-available```
   - default 파일 열기 : ```sudo vi default```
   <img src="../img/week3-2.png"/>
+  
   - nginx 테스트 & 재시작하기
