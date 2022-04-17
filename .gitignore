@@ -1,2 +1,4 @@
 
 *.cer
+
+.DS_Store
