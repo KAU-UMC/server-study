@@ -70,4 +70,6 @@
 
 ## 인스타그램 게시글 댓글 기능으로 ERD 구성해보기
 인스타그램 댓글이 다음과 같다고 합시다. ERD를 구성해보고, 쿼리문을 각자 작성하여 README에 Push하며 배운 내용을 견고히 해보겠습니다.
+![IMG_5014 복사본](https://user-images.githubusercontent.com/35029025/166185398-383c9b29-c750-4aca-b334-afbccee38d3e.PNG)
+![IMG_5014](https://user-images.githubusercontent.com/35029025/166185408-53644873-17b9-4230-97fe-4b45fb878d14.PNG)
 
