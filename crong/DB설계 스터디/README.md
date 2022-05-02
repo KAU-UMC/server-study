@@ -73,3 +73,9 @@
 ![IMG_5014 복사본](https://user-images.githubusercontent.com/35029025/166185398-383c9b29-c750-4aca-b334-afbccee38d3e.PNG)
 ![IMG_5014](https://user-images.githubusercontent.com/35029025/166185408-53644873-17b9-4230-97fe-4b45fb878d14.PNG)
 
+다음 잼보드에서 토의해봅시다!
+
+[구글 잼보드 바로가기](https://jamboard.google.com/d/1MUHQyoxV23hGZ2m-ZynSYEig37zjceXO0rCx5Avi_HE/edit?usp=sharing)
+
+## Todo: 위의 잼보드 내용을 집에서 보고, 스키마를 구성해 보세요.
+
