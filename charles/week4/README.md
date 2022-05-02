@@ -1,7 +1,6 @@
 # 서버 스터디 4주차 정리
 
 ## Database 이론 정리
-
 ### RDB(Relational Database), RDBMS(Relational Database Management System)
 - RDB는 ```관계형 데이터 모델```에 기초를 둔 데이터베이스
   - 모든 데이터를 2차원 테이블 형태로 표현
@@ -10,7 +9,10 @@
   
 
 ### Database 용어
-- 테이블(Table)
+- Table
+- Column
+- Record
+- <img src="../img/week4-3.png"/>
   
 
 ### SQL(Structured Query Language)
@@ -36,6 +38,8 @@
     - GRANT
     - REVOKE  
 
+### 키의 종류와 개념
+- [참고자료](https://kosaf04pyh.tistory.com/201)
   
 
 ## 인스타그램 DB 설계 실습
@@ -70,3 +74,7 @@
 
       - N:M : 따로 index Table을 만들어주기
       <img src="../img/week4-2.png"/>
+
+
+## 참고자료 
+- [4주차 워크북 GUIDEBOOK](https://evanescent-boat-5e3.notion.site/4-Work-Book-Guide-Book-03b3cfa532b848e2990b25cce75c63b7)
