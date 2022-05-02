@@ -68,4 +68,6 @@
 4. **ID, CREATED AT, UPDATE AT 어트리뷰트는 항상 존재하는 것이 좋다.**
    ![image](https://user-images.githubusercontent.com/35029025/166184621-ffb28f55-d12f-4937-9045-4f3c37c8997c.png)
 
+## 인스타그램 게시글 댓글 기능으로 ERD 구성해보기
+인스타그램 댓글이 다음과 같다고 합시다. ERD를 구성해보고, 쿼리문을 각자 작성하여 README에 Push하며 배운 내용을 견고히 해보겠습니다.
 
