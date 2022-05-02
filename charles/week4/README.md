@@ -75,6 +75,9 @@
       - N:M : 따로 index Table을 만들어주기
       <img src="../img/week4-2.png"/>
 
+### 설계 결과
+<img src="../img/week4-4.png"/>
+
 
 ## 참고자료 
 - [4주차 워크북 GUIDEBOOK](https://evanescent-boat-5e3.notion.site/4-Work-Book-Guide-Book-03b3cfa532b848e2990b25cce75c63b7)
