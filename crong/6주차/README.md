@@ -81,7 +81,16 @@
 Layered Architecture란?
 
 이전에 봤던 OSI 7계층 그림을 다시 가져와보겠습니다.
+![image](https://user-images.githubusercontent.com/35029025/167366664-9227a9e7-c12b-4593-9109-5cbf8337f1f7.png)
 
+위 그림에서, Layer가 하는 역할은 패킷을 아래서 위로 전달하고 각자의 위치에서 패킷을 최대한 검사하는 것이었습니다.
+스프링부트도 똑같습니다. Layered Architecture를 기반으로, 서로에게 데이터를 전달할 뿐, Layer간에는 어떤 작업도 하지 않습니다. 
 
-     PRIMARY KEY (id),  
-     PRIMARY KEY (id),  
+### 스프링부트 아키텍처
+![image](https://user-images.githubusercontent.com/35029025/167367231-8cfd3524-20d0-4071-950c-eff548df2804.png)
+* Controller Layer : UI 에서 요청을 받고 응답을 전달 한다.
+* Service Layer : 비즈니스 로직을 구현 한다.
+* Repository Layer : 데이터베이스에서 가져올 쿼리를 구현. JPA를 이용하는 경우 정해진 규칙에 따라서 메소드를 사용하거나, 만들어놓으면 적절한 쿼리를 수행할 수 있다.
+* Domain Layer : 실제로 데이터베이스 물리 테이블과 1:1 매핑이 되어 바인딩 되어 있다.
+
+참고: [블로그 글 참고](https://www.bottlehs.com/springboot/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B6%80%ED%8A%B8-%EA%B5%AC%EC%A1%B0/)
