@@ -94,3 +94,19 @@ Layered Architecture란?
 * Domain Layer : 실제로 데이터베이스 물리 테이블과 1:1 매핑이 되어 바인딩 되어 있다.
 
 참고: [블로그 글 참고](https://www.bottlehs.com/springboot/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B6%80%ED%8A%B8-%EA%B5%AC%EC%A1%B0/)
+
+# [번외] JSP와 Restful API
+## JSP
+java 언어를 기반으로 하는 Server Side 스크립트 언어이다.
+
+HTML코드에 Java 코드를 넣어 동적인 웹 페이지를 생성하는 웹 어플리케이션 도구이다.
+1.jsp를 통해 정적인 HTML과 동적으로 생성된 contents(Http 요청 파라미터)를 혼합하여 사용할 수 있다.
+
+2.즉, 사용자가 입력한 contents에 맞게 동적인 웹 페이지를 생성한다.
+
+Servlet 기술의 확장
+1.Servlet을 보완한 스크립트 방식 표준
+2.Servlet의 모든 기능 + 추가적인 기능
+
+## Restful API
+서버에 API요청을 하여 웹페이지의 내용을 채워넣는다.
