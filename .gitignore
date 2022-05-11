@@ -3,3 +3,5 @@ node_modules/
 *.cer
 
 .DS_Store
+
+crong/udemy_server_practice_nodejs/config/database.js
